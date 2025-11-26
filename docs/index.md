@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "DevOps Workshop"
+  name: "REDOS Workshop"
   text: "Beheer CI/CD met GitHub Actions"
   tagline: "Leer DevOps door deze website te bouwen en te deployen!"
   actions:
