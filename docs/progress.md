@@ -19,7 +19,7 @@
 
 ## Persoonlijke Workshop Informatie
 
-**Deelnemer Naam:** `[Jouw Volledige Naam]`  
+**Deelnemer Naam:** `[JINIS]`  
 **Workshop Datum:** `[Voeg vandaag's datum toe]`  
 **Doel:** `[Wat wil je bereiken? bijv., "Mijn eerste CI/CD pipeline bouwen"]`  
 **GitHub Gebruikersnaam:** `[jouw-github-gebruikersnaam]`  
